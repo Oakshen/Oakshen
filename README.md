@@ -2,7 +2,7 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=oakshen&show_icons=true&hide_border=true&include_all_commits=true&theme=github_dark"
+    src="https://github-readme-stats.vercel.app/api?username=oakshen&show_icons=true&hide_border=true&include_all_commits=true&theme=github_dark&cache_seconds=86400"
     alt="GitHub 统计"
   />
 </p>
