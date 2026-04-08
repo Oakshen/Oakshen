@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Oak's GitHub stats](https://github-readme-stats.vercel.app/api?username=Oakshen)
+![Oak's GitHub stats](https://github-readme-stats.vercel.app/api?username=oakshen)
 
 
 <!--
