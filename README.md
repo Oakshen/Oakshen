@@ -1,8 +1,14 @@
-<h2 align="center">你好，我是 Oakshen</h2>
+<h2 align="center">Hello, I'm Oakshen</h2>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=oakshen&show_icons=true&hide_border=true&include_all_commits=true&theme=github_dark&cache_seconds=86400"
-    alt="GitHub 统计"
-  />
+  <a href="https://github.com//Oakshen">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=/Oakshen&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com//Oakshen">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=/Oakshen&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=/Oakshen&theme=dark&hide_border=true"/>
 </p>
