@@ -1,5 +1,15 @@
 <h2 align="center">Hello, I'm Oakshen</h2>
 
+<p align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=/Oakshen&theme=dark&hide_border=true"/>
+</p>
+
+<h3 align="center">GitHub Stats</h3>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Oakshen&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true"/>
+</p>
+
 <h3 align="center">Contact</h3>
 
 <p align="center">
@@ -14,6 +24,3 @@
   </a>
 </p>
 
-<p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=/Oakshen&theme=dark&hide_border=true"/>
-</p>
